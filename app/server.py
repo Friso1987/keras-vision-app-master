@@ -11,7 +11,7 @@ import uvicorn, aiohttp, asyncio
 import base64, sys, numpy as np
 
 path = Path(__file__).parent
-model_file_url = 'https://1drv.ms/u/s!AockYdIUfVHdlrs_5Ql0tEBjJi7Rqw?e=gz8v3t'
+model_file_url = 'https://1drv.ms/u/s!AockYdIUfVHdlrtAH3VSHLdN-J1gYg'
 model_file_name = 'model'
 
 app = Starlette()
